@@ -1,0 +1,65 @@
+
+.header_area{
+    background-image: url(img/ActiveBox.jpg);
+}
+.menu {
+    margin-top: 44px;
+    width: 1950px;
+    height: 750px;
+    margin-left: 365px;
+    
+}
+.menu ul {
+    list-style: none;
+    height: 20px;
+    width: 1600px;
+}
+.menu ul li {
+    float: left;
+     width: 120px;
+    height: 20px;
+    line-height: 20px;
+    opacity: .8;
+    text-align: center;
+    font-size: 14px;
+}
+.menu ul li a {
+text-decoration: none;
+    color: white;
+    display: block;
+}
+.menu ul li a:hover {
+}
+.INFO{
+    margin-top: 250px;
+    margin-left: -200px;
+    width: 680px;
+    color: white;
+    text-align: center;
+}
+.button{
+    text-align: center;
+    font: Black;
+    margin-top: 78px;
+    width: 200px;
+    height: 46px;
+padding-top: 7px;
+    background-color: #FF7F50;
+    display: block;
+    }
+
+.A{
+    margin-top: 105px;
+}
+.B{
+    margin-top: 65px;
+    margin-bottom: 125px;
+}
+.row{
+    text-align: center;
+    margin-left: 30px;
+}
+.row col-sm-4{
+    text-align: center;
+    margin-right: 5px;
+}
